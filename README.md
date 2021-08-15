@@ -1,6 +1,5 @@
 # Power Outages
-Final project for DSC80 at UCSD, with inferential data analysis and basic regression. This project made use of a geospatial dataset on power outages in the US from 2000-2015, including information on the outage itself (its cause, duration, coverage, etc.), and the outage's location (its populational, industrial, economic, climatological data, etc.)
-# Data Analysis including EDA and predictive modelling on power outages dataset.
+Final project for DSC80 at UCSD, with inferential data analysis and basic regression. This project made use of a geospatial dataset on power outages in the US from 2000-2016, including information on the outage itself (its cause, duration, coverage, etc.), and the outage's location (its populational, industrial, economic, climatological data, etc.). The project was split between exploratory data analysis and predictive modelling.
 * outage.xlsx: 1000+ row dataset of the list of outages in the US from 2000 to 2016
 * outage_EDA: notebook with data-cleaning and EDA (Exploratory Data Analysis) and hypothesis testing on the dataset
 * outages: notebook with data-cleaning and predictive modelling on the dataset
